@@ -19,8 +19,6 @@ theme: Zurich, 5
 | 102 | Zoticus   | SILVER  |
 | 103 | Willihard | NULL    |
 
-^ So we have a customer table. In the table there is a level and people who are at higher levels get a discount on purchase.
-
 ---
 
 ```sql
